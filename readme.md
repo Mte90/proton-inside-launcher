@@ -9,6 +9,20 @@ You just need to download the `proton-inside-launcher.sh` file, add the executab
 You will get 2 window, the first one asking the Steam Game ID and the next one to select the Window executable (or any other executable) that you want to run using the Proton engine with the libraries installed for that game.
 On next time you don't need to do that again because a configuration file it will be generated and if found automatically will run the tool.
 
+## FAQ
+
+* Can be used in Game mode on Steam Deck?
+
+Needs to be executed on Desktop Mode.
+
+* Works with trainers?
+
+I didn't yet tested with that.
+
+* I don't want to use it on Steam Deck!
+
+Just change the path in the `.sh` file to the right one for your user.
+
 ## Requirements
 
 * kdialog (avalaible on Steam Deck)
